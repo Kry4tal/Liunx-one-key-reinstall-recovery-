@@ -29,3 +29,5 @@ Debian9 x64
 
 # Wget
 > wget --no-check-certificate -qO DebianNET.sh 'https://raw.githubusercontent.com/Kry4tal/Liunx-one-key-recovery/master/DebianNET.sh' && chmod -x DebianNET.sh
+
+By Vicer/Kry4tal
