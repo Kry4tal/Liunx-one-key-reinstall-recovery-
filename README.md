@@ -1,4 +1,4 @@
-# Liunx-one-key-recovery
+# Liunx-one-key-reinstall
 # 使用前请
 #Debian/Ubuntu:
 > apt-get install -y gawk sed grep
