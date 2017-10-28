@@ -3,6 +3,7 @@
 #Debian/Ubuntu:
 > apt-get install -y gawk sed grep
  
+ 
 #RedHat/CentOS:
 > yum install -y gawk sed grep
 # 用法Usage:
@@ -25,3 +26,6 @@ Debian9 x32
 
 Debian9 x64
 > bash DebianNET.sh -d 9 -v 64
+
+# Wget
+> wget --no-check-certificate -qO DebianNET.sh 'https://raw.githubusercontent.com/Kry4tal/Liunx-one-key-recovery/master/DebianNET.sh' && chmod -x DebianNET.sh
